@@ -6,7 +6,7 @@
   {
     "id": "@AraCred",
     "discord": {
-      "guildId": "695344751490236486",
+      "guildId": "739447411167985686",
       "reactionWeights": {
         "👍": 1,
         "🔥": 1,
@@ -17,163 +17,19 @@
     },
     "identities": [
       {
-        "username": "burrrata",
+        "username": "George Nikolaou",
         "aliases": [
-          "github/burrrata",
-          "discord/657069807505637397"
+          "github/giorgosn",
+          "discord/730036968531951627"
         ]
       },
       {
-        "username": "Aaron",
+        "username": "Npizza-old",
         "aliases": [
-          "github/pythonpete32",
-          "discord/571023281382227978"
+          "github/Npizza",
+          "discord/515910615827611649"
         ]
       },
-      {
-        "username": "hammadj",
-        "aliases": [
-          "github/hammadj",
-          "discord/118260545211072517"
-        ]
-      },
-      {
-        "username": "dandelion",
-        "aliases": [
-          "github/decentralion",
-          "discord/420341518948237331"
-        ]
-      },
-      {
-        "username": "mzargham",
-        "aliases": [
-          "github/mzargham",
-          "discord/250086586450968576"
-        ]
-      },
-      {
-        "username": "lkngtn",
-        "aliases": [
-          "github/lkngtn",
-          "discord/363774203960360961"
-        ]
-      },
-      {
-        "username": "cslarson",
-        "aliases": [
-          "github/cslarson"
-        ]
-      },
-      {
-        "username": "0xGabi",
-        "aliases": [
-          "github/0xgabi"
-        ]
-      },
-      {
-        "username": "sembrestels",
-        "aliases": [
-          "github/sembrestels"
-        ]
-      },
-      {
-        "username": "fabriziovigevani",
-        "aliases": [
-          "github/fabriziovigevani"
-        ]
-      },
-      {
-        "username": "fioreb",
-        "aliases": [
-          "github/fioreb"
-        ]
-      },
-      {
-        "username": "onbjerg",
-        "aliases": [
-          "github/onbjerg"
-        ]
-      },
-      {
-        "username": "rperez",
-        "aliases": [
-          "github/rperez89"
-        ]
-      },
-      {
-        "username": "willjgriff",
-        "aliases": [
-          "github/willjgriff"
-        ]
-      },
-      {
-        "username": "li",
-        "aliases": [
-          "github/luisivan"
-        ]
-      },
-      {
-        "username": "crisorg",
-        "aliases": [
-          "github/crisog",
-          "discord/474405294307278880"
-        ]
-      },
-      {
-        "username": "audsssy",
-        "aliases": [
-          "discord/218101199268741120"
-        ]
-      },
-      {
-        "username": "benscholtz",
-        "aliases": [
-          "github/BenSchZA",
-          "discord/384333876572454912"
-        ]
-      },
-      {
-        "username": "jlwaugh",
-        "aliases": [
-          "github/jlwaugh",
-          "discord/695344751490236486"
-        ]
-      },
-      {
-        "username": "robin",
-        "aliases": [
-          "github/w1kke",
-          "discord/194817764236460034"
-        ]
-      },
-      {
-        "username": "Santiago",
-        "aliases": [
-          "github/santteegt",
-          "discord/440281764204642314"
-        ]
-      },
-      {
-        "username": "evalir",
-        "aliases": [
-          "github/Evalir",
-          "discord/321092785921064961"
-        ]
-      },
-      {
-        "username": "benoxmo",
-        "aliases": [
-          "github/benoxmo",
-          "discord/606105191690797056"
-        ]
-      },
-      {
-        "username": "youngkidwarrior",
-        "aliases": [
-          "discourse/youngkidwarrior",
-          "discord/683892894767251489"
-        ]
-      }
     ]
   }
 ]
