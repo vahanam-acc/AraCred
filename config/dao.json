@@ -1,9 +1,9 @@
 [
 	{
-		"daoAddress": "0xE4A4f93ED28238c912bF8D1033627717e69b1e96",
-		"tokenManagerAddress": "0x9c55557d441ed45bea3726d51791fc072c48c6a1",
-		"votingAddress": "0x61d4f81c98ba8c3ad39c2832094384b90e774ff7",
-		"environment": "mainnet",
+		"daoAddress": "0x73939a3f85BcAFC44dD9027417E510a6844cEd7f",
+		"tokenManagerAddress": "0x8fd9d2bece1c0fa7237e3532ac172169a982fca9",
+		"votingAddress": "0xb8cf538ee52e769f48846977d90ce37f0175ab3b",
+		"environment": "rinkeby",
 		"mints": [],
 		"burns": []
 	}
